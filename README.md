@@ -23,7 +23,9 @@ The task is episodic, and in order to solve the environment, your agent must get
 ### Getting Started
 # Setup Python Environment
 
-    Please follow the instruction to setup Python environment from the original course GitHub repository.
+Please follow the instruction to setup Python environment from the original course GitHub repository.
+
+check the link : https://github.com/udacity/deep-reinforcement-learning#dependencies
 
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
